@@ -3,7 +3,7 @@
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
        alt="snake" />
   </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=skeptixionist&label=Profile%20Visits&style=for-the-badge" />
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -28,9 +28,9 @@
 
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamhi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamhi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamhi&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skeptixionist&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skeptixionist&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skeptixionist&theme=dark)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
